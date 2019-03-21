@@ -1,2 +1,0 @@
-# ahemedtechcampus.github.io
-training 
